@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="sign_up">Sign up</string>
+    <string name="userinfoone">Name: Cristiano Ronaldo \nEmail: cristiano@gmail.com</string>
+    <string name="userinfotwo">Name: Vini Junior \nEmail: vini.jr@gmail.com</string>
+    <string name="userinfothree">Name: Kylian Mbappe \nEmail: mbappe.k@gmail.com</string>
+
+    <string name="bookinfoone">Title: Deep Work \nBorrowed date: 12.03.2025 \nReturn date: 12.04.2025</string>
+    <string name="bookinfotwo">Title: 1984 \nBorrowed date: 2.03.2025 \nReturn date: 2.04.2025</string>
+    <string name="bookinfothree">Title: Atomic habits \nBorrowed date: 7.03.2025 \nReturn date: 7.04.2025</string>
+
+</resources>
