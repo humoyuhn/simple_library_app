@@ -36,6 +36,11 @@
             android:exported="true">
         </activity>
 
+        <activity
+            android:name=".MyBooks"
+            android:exported="true">
+        </activity>
+
     </application>
 
 </manifest>
